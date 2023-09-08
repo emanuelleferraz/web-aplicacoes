@@ -3,7 +3,7 @@ import { resolve } from "path";
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/web-calculator-and-store/",
+  base: "/web-aplicacoes/",
   plugins: [],
   resolve: {
     /*something*/
