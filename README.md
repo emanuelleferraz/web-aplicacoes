@@ -38,3 +38,15 @@ A estilização do projeto de E-Commerce foi feita utilizando o Tailwind CSS.
 ### Arquivos Tailwind CSS:
 - `postcss.config.js`
 - `tailwind.config.js`
+
+### Interface
+
+![Interface-Página-Inicial](images/Interface.png)
+
+### Checkout
+
+![Checkout](images/Checkout.png)
+
+### Histórico
+
+![Histórico-Pedidos](images/HistoricoPedidos.png)
